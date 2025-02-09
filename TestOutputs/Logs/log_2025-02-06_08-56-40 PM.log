@@ -1,5 +1,0 @@
-[INFO] 06-02-2025 20:56:40 [main] [Tests.TC06_finishPage.setup(TC06_finishPage.java:36)] - Browser is opened
-[INFO] 06-02-2025 20:56:43 [main] [Tests.TC06_finishPage.setup(TC06_finishPage.java:38)] - Browser is redirected to https://www.saucedemo.com/v1/ 
-[INFO] 06-02-2025 20:56:43 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - TCfinishOrderTCstarted
-[INFO] 06-02-2025 20:57:00 [main] [pages.P2_LandingPage.clickingOnCartIcon(P2_LandingPage.java:90)] -  Browser redirected to https://www.saucedemo.com/v1/cart.html
-[INFO] 06-02-2025 20:57:02 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:15)] - TCfinishOrderTCpassed
